@@ -1,0 +1,650 @@
+Aberavon,WAL
+Aberconwy,WAL
+Aberdeen North,SCO
+Aberdeen South,SCO
+Airdrie and Shotts,SCO
+Aldershot,SE
+Aldridge-Brownhills,WM
+Altrincham and Sale West,NW
+Alyn and Deeside,WAL
+Amber Valley,EM
+Angus,SCO
+Arfon,WAL
+Argyll and Bute,SCO
+Arundel and South Downs,SE
+Ashfield,EM
+Ashford,SE
+Ashton-Under-Lyne,NW
+Aylesbury,SE
+Ayr Carrick and Cumnock,SCO
+Banbury,SE
+Banff and Buchan,SCO
+Barking,LDN
+Barnsley Central,YOR
+Barnsley East,YOR
+Barrow and Furness,NW
+Basildon and Billericay,E
+Basingstoke,SE
+Bassetlaw,EM
+Bath,SW
+Batley and Spen,YOR
+Battersea,LDN
+Beaconsfield,SE
+Beckenham,LDN
+Bedford,E
+Belfast East,NI
+Belfast North,NI
+Belfast South,NI
+Belfast West,NI
+Bermondsey and Old Southwark,LDN
+Berwickshire Roxburgh and Selkirk,SCO
+Berwick-Upon-Tweed,NE
+Bethnal Green and Bow,LDN
+Beverley and Holderness,YOR
+Bexhill and Battle,SE
+Bexleyheath and Crayford,LDN
+Birkenhead,NW
+Birmingham Edgbaston,WM
+Birmingham Erdington,WM
+Birmingham Hall Green,WM
+Birmingham Hodge Hill,WM
+Birmingham Ladywood,WM
+Birmingham Northfield,WM
+Birmingham Perry Barr,WM
+Birmingham Selly Oak,WM
+Birmingham Yardley,WM
+Bishop Auckland,NE
+Blackburn,NW
+Blackley and Broughton,NW
+Blackpool North and Cleveleys,NW
+Blackpool South,NW
+Blaenau Gwent,WAL
+Blaydon,NE
+Blyth Valley,NE
+Bognor Regis and Littlehampton,SE
+Bolsover,EM
+Bolton North East,NW
+Bolton South East,NW
+Bolton West,NW
+Bootle,NW
+Boston and Skegness,EM
+Bosworth,EM
+Bournemouth East,SW
+Bournemouth West,SW
+Bracknell,SE
+Bradford East,YOR
+Bradford South,YOR
+Bradford West,YOR
+Braintree,E
+Brecon and Radnorshire,WAL
+Brent Central,LDN
+Brent North,LDN
+Brentford and Isleworth,LDN
+Brentwood and Ongar,E
+Bridgend,WAL
+Bridgwater and West Somerset,SW
+Brigg and Goole,YOR
+Brighton Kemptown,SE
+Brighton Pavilion,SE
+Bristol East,SW
+Bristol North West,SW
+Bristol South,SW
+Bristol West,SW
+Broadland,E
+Bromley and Chislehurst,LDN
+Bromsgrove,WM
+Broxbourne,E
+Broxtowe,EM
+Buckingham,SE
+Burnley,NW
+Burton,WM
+Bury North,NW
+Bury South,NW
+Bury St Edmunds,E
+Caerphilly,WAL
+Caithness Sutherland and Easter Ross,SCO
+Calder Valley,YOR
+Camberwell and Peckham,LDN
+Camborne and Redruth,SW
+Cambridge,E
+Cannock Chase,WM
+Canterbury,SE
+Cardiff Central,WAL
+Cardiff North,WAL
+Cardiff South and Penarth,WAL
+Cardiff West,WAL
+Carlisle,NW
+Carmarthen East and Dinefwr,WAL
+Carmarthen West and South Pembrokeshire,WAL
+Carshalton and Wallington,LDN
+Castle Point,E
+Central Ayrshire,SCO
+Central Devon,SW
+Central Suffolk and North Ipswich,E
+Ceredigion,WAL
+Charnwood,EM
+Chatham and Aylesford,SE
+Cheadle,NW
+Chelmsford,E
+Chelsea and Fulham,LDN
+Cheltenham,SW
+Chesham and Amersham,SE
+Chesterfield,EM
+Chichester,SE
+Chingford and Woodford Green,LDN
+Chippenham,SW
+Chipping Barnet,LDN
+Chorley,NW
+Christchurch,SW
+Cities Of London and Westminster,LDN
+City Of Chester,NW
+City Of Durham,NE
+Clacton,E
+Cleethorpes,YOR
+Clwyd South,WAL
+Clwyd West,WAL
+Coatbridge Chryston and Bellshill,SCO
+Colchester,E
+Colne Valley,YOR
+Congleton,NW
+Copeland,NW
+Corby,EM
+Coventry North East,WM
+Coventry North West,WM
+Coventry South,WM
+Crawley,SE
+Crewe and Nantwich,NW
+Croydon Central,LDN
+Croydon North,LDN
+Croydon South,LDN
+Cumbernauld Kilsyth and Kirkintilloch East,SCO
+Cynon Valley,WAL
+Dagenham and Rainham,LDN
+Darlington,NE
+Dartford,SE
+Daventry,EM
+Delyn,WAL
+Denton and Reddish,NW
+Derby North,EM
+Derby South,EM
+Derbyshire Dales,EM
+Devizes,SW
+Dewsbury,YOR
+Don Valley,YOR
+Doncaster Central,YOR
+Doncaster North,YOR
+Dover,SE
+Dudley North,WM
+Dudley South,WM
+Dulwich and West Norwood,LDN
+Dumfries and Galloway,SCO
+Dumfriesshire Clydesdale and Tweeddale,SCO
+Dundee East,SCO
+Dundee West,SCO
+Dunfermline and West Fife,SCO
+Dwyfor Meirionnydd,WAL
+Ealing Central and Acton,LDN
+Ealing North,LDN
+Ealing Southall,LDN
+Easington,NE
+East Antrim,NI
+East Devon,SW
+East Dunbartonshire,SCO
+East Ham,LDN
+East Hampshire,SE
+East Kilbride Strathaven and Lesmahagow,SCO
+East Londonderry,NI
+East Lothian,SCO
+East Renfrewshire,SCO
+East Surrey,SE
+East Worthing and Shoreham,SE
+East Yorkshire,YOR
+Eastbourne,SE
+Eastleigh,SE
+Eddisbury,NW
+Edinburgh East,SCO
+Edinburgh North and Leith,SCO
+Edinburgh South,SCO
+Edinburgh South West,SCO
+Edinburgh West,SCO
+Edmonton,LDN
+Ellesmere Port and Neston,NW
+Elmet and Rothwell,YOR
+Eltham,LDN
+Enfield North,LDN
+Enfield Southgate,LDN
+Epping Forest,E
+Epsom and Ewell,SE
+Erewash,EM
+Erith and Thamesmead,LDN
+Esher and Walton,SE
+Exeter,SW
+Falkirk,SCO
+Fareham,SE
+Faversham and Mid Kent,SE
+Feltham and Heston,LDN
+Fermanagh and South Tyrone,NI
+Filton and Bradley Stoke,SW
+Finchley and Golders Green,LDN
+Folkestone and Hythe,SE
+Forest Of Dean,SW
+Foyle,NI
+Fylde,NW
+Gainsborough,EM
+Garston and Halewood,NW
+Gateshead,NE
+Gedling,EM
+Gillingham and Rainham,SE
+Glasgow Central,SCO
+Glasgow East,SCO
+Glasgow North,SCO
+Glasgow North East,SCO
+Glasgow North West,SCO
+Glasgow South,SCO
+Glasgow South West,SCO
+Glenrothes,SCO
+Gloucester,SW
+Gordon,SCO
+Gosport,SE
+Gower,WAL
+Grantham and Stamford,EM
+Gravesham,SE
+Great Grimsby,YOR
+Great Yarmouth,E
+Greenwich and Woolwich,LDN
+Guildford,SE
+Hackney North and Stoke Newington,LDN
+Hackney South and Shoreditch,LDN
+Halesowen and Rowley Regis,WM
+Halifax,YOR
+Haltemprice and Howden,YOR
+Halton,NW
+Hammersmith,LDN
+Hampstead and Kilburn,LDN
+Harborough,EM
+Harlow,E
+Harrogate and Knaresborough,YOR
+Harrow East,LDN
+Harrow West,LDN
+Hartlepool,NE
+Harwich and North Essex,E
+Hastings and Rye,SE
+Havant,SE
+Hayes and Harlington,LDN
+Hazel Grove,NW
+Hemel Hempstead,E
+Hemsworth,YOR
+Hendon,LDN
+Henley,SE
+Hereford and South Herefordshire,WM
+Hertford and Stortford,E
+Hertsmere,E
+Hexham,NE
+Heywood and Middleton,NW
+High Peak,EM
+Hitchin and Harpenden,E
+Holborn and St Pancras,LDN
+Hornchurch and Upminster,LDN
+Hornsey and Wood Green,LDN
+Horsham,SE
+Houghton and Sunderland South,NE
+Hove,SE
+Huddersfield,YOR
+Huntingdon,E
+Hyndburn,NW
+Ilford North,LDN
+Ilford South,LDN
+Inverclyde,SCO
+Inverness Nairn Badenoch and Strathspey,SCO
+Ipswich,E
+Isle Of Wight,SE
+Islington North,LDN
+Islington South and Finsbury,LDN
+Islwyn,WAL
+Jarrow,NE
+Keighley,YOR
+Kenilworth and Southam,WM
+Kensington,LDN
+Kettering,EM
+Kilmarnock and Loudoun,SCO
+Kingston and Surbiton,LDN
+Kingston upon Hull East,YOR
+Kingston upon Hull North,YOR
+Kingston upon Hull West and Hessle,YOR
+Kingswood,SW
+Kirkcaldy and Cowdenbeath,SCO
+Knowsley,NW
+Lagan Valley,NI
+Lanark and Hamilton East,SCO
+Lancaster and Fleetwood,NW
+Leeds Central,YOR
+Leeds East,YOR
+Leeds North East,YOR
+Leeds North West,YOR
+Leeds West,YOR
+Leicester East,EM
+Leicester South,EM
+Leicester West,EM
+Leigh,NW
+Lewes,SE
+Lewisham East,LDN
+Lewisham West and Penge,LDN
+Lewisham Deptford,LDN
+Leyton and Wanstead,LDN
+Lichfield,WM
+Lincoln,EM
+Linlithgow and East Falkirk,SCO
+Liverpool Riverside,NW
+Liverpool Walton,NW
+Liverpool Wavertree,NW
+Liverpool West Derby,NW
+Livingston,SCO
+Llanelli,WAL
+Loughborough,EM
+Louth and Horncastle,EM
+Ludlow,WM
+Luton North,E
+Luton South,E
+Macclesfield,NW
+Maidenhead,SE
+Maidstone and The Weald,SE
+Makerfield,NW
+Maldon,E
+Manchester Central,NW
+Manchester Gorton,NW
+Manchester Withington,NW
+Mansfield,EM
+Meon Valley,SE
+Meriden,WM
+Merthyr Tydfil and Rhymney,WAL
+Mid Bedfordshire,E
+Mid Derbyshire,EM
+Mid Dorset and North Poole,SW
+Mid Norfolk,E
+Mid Sussex,SE
+Mid Ulster,NI
+Mid Worcestershire,WM
+Middlesbrough,NE
+Middlesbrough South and East Cleveland,NE
+Midlothian,SCO
+Milton Keynes North,SE
+Milton Keynes South,SE
+Mitcham and Morden,LDN
+Mole Valley,SE
+Monmouth,WAL
+Montgomeryshire,WAL
+Moray,SCO
+Morecambe and Lunesdale,NW
+Morley and Outwood,YOR
+Motherwell and Wishaw,SCO
+Na h-Eileanan An Iar,SCO
+Neath,WAL
+New Forest East,SE
+New Forest West,SE
+Newark,EM
+Newbury,SE
+Newcastle Upon Tyne Central,NE
+Newcastle Upon Tyne East,NE
+Newcastle Upon Tyne North,NE
+Newcastle-Under-Lyme,WM
+Newport East,WAL
+Newport West,WAL
+Newry and Armagh,NI
+Newton Abbot,SW
+Normanton Pontefract and Castleford,YOR
+North Antrim,NI
+North Ayrshire and Arran,SCO
+North Cornwall,SW
+North Devon,SW
+North Dorset,SW
+North Down,NI
+North Durham,NE
+North East Bedfordshire,E
+North East Cambridgeshire,E
+North East Derbyshire,EM
+North East Fife,SCO
+North East Hampshire,SE
+North East Hertfordshire,E
+North East Somerset,SW
+North Herefordshire,WM
+North Norfolk,E
+North Shropshire,WM
+North Somerset,SW
+North Swindon,SW
+North Thanet,SE
+North Tyneside,NE
+North Warwickshire,WM
+North West Cambridgeshire,E
+North West Durham,NE
+North West Hampshire,SE
+North West Leicestershire,EM
+North West Norfolk,E
+North Wiltshire,SW
+Northampton North,EM
+Northampton South,EM
+Norwich North,E
+Norwich South,E
+Nottingham East,EM
+Nottingham North,EM
+Nottingham South,EM
+Nuneaton,WM
+Ochil and South Perthshire,SCO
+Ogmore,WAL
+Old Bexley and Sidcup,LDN
+Oldham East and Saddleworth,NW
+Oldham West and Royton,NW
+Orkney and Shetland,SCO
+Orpington,LDN
+Oxford East,SE
+Oxford West and Abingdon,SE
+Paisley and Renfrewshire North,SCO
+Paisley and Renfrewshire South,SCO
+Pendle,NW
+Penistone and Stocksbridge,YOR
+Penrith and The Border,NW
+Perth and North Perthshire,SCO
+Peterborough,E
+Plymouth Moor View,SW
+Plymouth Sutton and Devonport,SW
+Pontypridd,WAL
+Poole,SW
+Poplar and Limehouse,LDN
+Portsmouth North,SE
+Portsmouth South,SE
+Preseli Pembrokeshire,WAL
+Preston,NW
+Pudsey,YOR
+Putney,LDN
+Rayleigh and Wickford,E
+Reading East,SE
+Reading West,SE
+Redcar,NE
+Redditch,WM
+Reigate,SE
+Rhondda,WAL
+Ribble Valley,NW
+Richmond (Yorks),YOR
+Richmond Park,LDN
+Rochdale,NW
+Rochester and Strood,SE
+Rochford and Southend East,E
+Romford,LDN
+Romsey and Southampton North,SE
+Ross Skye and Lochaber,SCO
+Rossendale and Darwen,NW
+Rother Valley,YOR
+Rotherham,YOR
+Rugby,WM
+Ruislip Northwood and Pinner,LDN
+Runnymede and Weybridge,SE
+Rushcliffe,EM
+Rutherglen and Hamilton West,SCO
+Rutland and Melton,EM
+Saffron Walden,E
+Salford and Eccles,NW
+Salisbury,SW
+Scarborough and Whitby,YOR
+Scunthorpe,YOR
+Sedgefield,NE
+Sefton Central,NW
+Selby and Ainsty,YOR
+Sevenoaks,SE
+Sheffield Central,YOR
+Sheffield South East,YOR
+Sheffield Brightside and Hillsborough,YOR
+Sheffield Hallam,YOR
+Sheffield Heeley,YOR
+Sherwood,EM
+Shipley,YOR
+Shrewsbury and Atcham,WM
+Sittingbourne and Sheppey,SE
+Skipton and Ripon,YOR
+Sleaford and North Hykeham,EM
+Slough,SE
+Solihull,WM
+Somerton and Frome,SW
+South Antrim,NI
+South Basildon and East Thurrock,E
+South Cambridgeshire,E
+South Derbyshire,EM
+South Dorset,SW
+South Down,NI
+South East Cambridgeshire,E
+South East Cornwall,SW
+South Holland and The Deepings,EM
+South Leicestershire,EM
+South Norfolk,E
+South Northamptonshire,EM
+South Ribble,NW
+South Shields,NE
+South Staffordshire,WM
+South Suffolk,E
+South Swindon,SW
+South Thanet,SE
+South West Bedfordshire,E
+South West Devon,SW
+South West Hertfordshire,E
+South West Norfolk,E
+South West Surrey,SE
+South West Wiltshire,SW
+Southampton Itchen,SE
+Southampton Test,SE
+Southend West,E
+Southport,NW
+Spelthorne,SE
+St Albans,E
+St Austell and Newquay,SW
+St Helens North,NW
+St Helens South and Whiston,NW
+St Ives,SW
+Stafford,WM
+Staffordshire Moorlands,WM
+Stalybridge and Hyde,NW
+Stevenage,E
+Stirling,SCO
+Stockport,NW
+Stockton North,NE
+Stockton South,NE
+Stoke-On-Trent Central,WM
+Stoke-On-Trent North,WM
+Stoke-On-Trent South,WM
+Stone,WM
+Stourbridge,WM
+Strangford,NI
+Stratford-On-Avon,WM
+Streatham,LDN
+Stretford and Urmston,NW
+Stroud,SW
+Suffolk Coastal,E
+Sunderland Central,NE
+Surrey Heath,SE
+Sutton and Cheam,LDN
+Sutton Coldfield,WM
+Swansea East,WAL
+Swansea West,WAL
+Tamworth,WM
+Tatton,NW
+Taunton Deane,SW
+Telford,WM
+Tewkesbury,SW
+The Cotswolds,SW
+The Wrekin,WM
+Thirsk and Malton,YOR
+Thornbury and Yate,SW
+Thurrock,E
+Tiverton and Honiton,SW
+Tonbridge and Malling,SE
+Tooting,LDN
+Torbay,SW
+Torfaen,WAL
+Torridge and West Devon,SW
+Totnes,SW
+Tottenham,LDN
+Truro and Falmouth,SW
+Tunbridge Wells,SE
+Twickenham,LDN
+Tynemouth,NE
+Upper Bann,NI
+Uxbridge and South Ruislip,LDN
+Vale Of Clwyd,WAL
+Vale Of Glamorgan,WAL
+Vauxhall,LDN
+Wakefield,YOR
+Wallasey,NW
+Walsall North,WM
+Walsall South,WM
+Walthamstow,LDN
+Wansbeck,NE
+Wantage,SE
+Warley,WM
+Warrington North,NW
+Warrington South,NW
+Warwick and Leamington,WM
+Washington and Sunderland West,NE
+Watford,E
+Waveney,E
+Wealden,SE
+Weaver Vale,NW
+Wellingborough,EM
+Wells,SW
+Welwyn Hatfield,E
+Wentworth and Dearne,YOR
+West Aberdeenshire and Kincardine,SCO
+West Bromwich East,WM
+West Bromwich West,WM
+West Dorset,SW
+West Dunbartonshire,SCO
+West Ham,LDN
+West Lancashire,NW
+West Suffolk,E
+West Tyrone,NI
+West Worcestershire,WM
+Westminster North,LDN
+Westmorland and Lonsdale,NW
+Weston-Super-Mare,SW
+Wigan,NW
+Wimbledon,LDN
+Winchester,SE
+Windsor,SE
+Wirral South,NW
+Wirral West,NW
+Witham,E
+Witney,SE
+Woking,SE
+Wokingham,SE
+Wolverhampton North East,WM
+Wolverhampton South East,WM
+Wolverhampton South West,WM
+Worcester,WM
+Workington,NW
+Worsley and Eccles South,NW
+Worthing West,SE
+Wrexham,WAL
+Wycombe,SE
+Wyre and Preston North,NW
+Wyre Forest,WM
+Wythenshawe and Sale East,NW
+Yeovil,SW
+Ynys Mon,WAL
+York Central,YOR
+York Outer,YOR
